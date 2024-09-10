@@ -16,6 +16,7 @@
 		2E87BB1E2C80F02F00899557 /* MemorizeProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E87BB1D2C80F02F00899557 /* MemorizeProjectTests.swift */; };
 		2E87BB282C80F02F00899557 /* MemorizeProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E87BB272C80F02F00899557 /* MemorizeProjectUITests.swift */; };
 		2E87BB2A2C80F02F00899557 /* MemorizeProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E87BB292C80F02F00899557 /* MemorizeProjectUITestsLaunchTests.swift */; };
+		2EF338AE2C8FB864006E77E2 /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF338AD2C8FB864006E77E2 /* AspectVGrid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		2E87BB232C80F02F00899557 /* MemorizeProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemorizeProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E87BB272C80F02F00899557 /* MemorizeProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeProjectUITests.swift; sourceTree = "<group>"; };
 		2E87BB292C80F02F00899557 /* MemorizeProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2EF338AD2C8FB864006E77E2 /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				2E2ECFF22C826680004C8F93 /* MemorizeGame.swift */,
 				2E87BB0C2C80F02D00899557 /* MemorizeProjectApp.swift */,
 				2E87BB0E2C80F02D00899557 /* EmojiMemoryGameView.swift */,
+				2EF338AD2C8FB864006E77E2 /* AspectVGrid.swift */,
 				2E87BB102C80F02F00899557 /* Assets.xcassets */,
 				2E87BB122C80F02F00899557 /* Preview Content */,
 			);
@@ -266,6 +269,7 @@
 				2E87BB0F2C80F02D00899557 /* EmojiMemoryGameView.swift in Sources */,
 				2E87BB0D2C80F02D00899557 /* MemorizeProjectApp.swift in Sources */,
 				2E2ECFF32C826680004C8F93 /* MemorizeGame.swift in Sources */,
+				2EF338AE2C8FB864006E77E2 /* AspectVGrid.swift in Sources */,
 				2E2ECFF52C826886004C8F93 /* EmojiMemoryGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
