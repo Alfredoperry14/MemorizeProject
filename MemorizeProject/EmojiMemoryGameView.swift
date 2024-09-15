@@ -33,7 +33,6 @@ struct EmojiMemoryGameView: View {
                     .onTapGesture {
                         viewModel.choose(card)
                     }
-                Text(card.id)
             }
         }
         .foregroundColor(.orange)
